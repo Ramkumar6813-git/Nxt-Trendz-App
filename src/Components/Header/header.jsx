@@ -49,7 +49,7 @@ function Header() {
             >
               {(close) => (
                 <div className="popup-modal-section">
-                  <h3 className="">Are you sure want to logout?</h3>
+                  <h3 className="lh-base">Are you sure want to logout?</h3>
                   <div className="buttons">
                     <button
                       type="button"
